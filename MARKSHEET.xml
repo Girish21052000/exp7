@@ -1,0 +1,32 @@
+<?xml version = "1.0"?>
+<?xml-stylesheet type = "text/xsl" href = "students.xsl"?>
+<class>
+<student ROLLNO = "143">
+<firstname>GIRISH</firstname>
+<lastname>YADAV</lastname>
+<nickname>MAMA</nickname>
+<marks>92</marks>
+<subject>CG</subject>
+</student>
+<student ROLLNO = "185">
+<firstname>SAGAR</firstname>
+<lastname>PATIL</lastname>
+<nickname>SAGU</nickname>
+<marks>84</marks>
+<subject>PHYSICS</subject>
+</student>
+<student ROLLNO = "153">
+<firstname>ADARSH</firstname>
+<lastname>GANGURDE</lastname>
+<nickname>SONU</nickname>
+<marks>85</marks>
+<subject>MATHEMATICS 4</subject>
+</student>
+<student ROLLNO = "146">
+<firstname>VINAYAK</firstname>
+<lastname>JAGTAP</lastname>
+<nickname>VINYA</nickname>
+<marks>80</marks>
+<subject>BCE</subject>
+</student>
+</class> 
